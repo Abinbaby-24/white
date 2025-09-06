@@ -27,3 +27,6 @@ body{
       transform: scale(1.2);
       color: #ffd700; /* Gold on hover */
     }
+    .footer{
+    background-color: orange;
+    }
